@@ -24,4 +24,7 @@ read -r used_mb
 # Step 5: Print the three output lines using echo, embedding variables directly.
 
 # TODO: Replace this line with your implementation
-echo "TODO"
+echo "$(( 1968 - 961 ))"
+echo "$(( 961 * 100 / 1968 ))
+if (( 1007 >= 90 ))
+
